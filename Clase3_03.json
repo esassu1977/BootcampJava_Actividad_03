@@ -10,10 +10,11 @@
       "Respuesta":"Lima",
       "Razon":"Fue la capital del virreinato del Perú por sus valles y su baja altitud sobre el nivel del mar en reemplazo de Jauja"
     },
-    "Citar_capital_de_":{
-      "Opciones":["", "", "", ""],
-      "Respuesta":"",
-      "Razon":""
-    }
+    "Citar_capital_de_Uruguay":{
+      "Opciones":["Montevideo", "Punta_del_Este", "Colonia_del_sacramento", "Salto"],
+      "Respuesta":"Montevideo",
+      "Razon":"Montevideo es la capital y la ciudad más poblada de Uruguay. Es también el principal puerto y centro económico, político y cultural del país."
+    },
+    
   }
 }
