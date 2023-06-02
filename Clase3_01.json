@@ -1,7 +1,5 @@
-
 {
-  "negocio":{
-    "giro":"Academia_de_idiomas",
+  "academia_de_idiomas":{
     "nombre":"Next_lang",
     "domicilio":{
       "calle":"Principal",
@@ -31,8 +29,6 @@
         "duración_semanas":5,
         "costo_usd":120
       }
-      
       ]
-    
   }
 }
