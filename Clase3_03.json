@@ -1,0 +1,19 @@
+{
+  "Capitales_de_America":{
+    "Citar_capital_de_Mexico":{
+      "Opciones":["Monterrey", "Queretaro", "Guadalajara", "Ciudad_de_Mexico"],
+      "Respuesta":"Ciudad_de_Mexico",
+      "Razon":"Se designó como capital al final de la independencia del Virreinato de la Nueva España en 1821"
+    },
+     "Citar_capital_de_Peru":{
+      "Opciones":["Arequipa", "Ayacucho", "Lima", "Cajamarca"],
+      "Respuesta":"Lima",
+      "Razon":"Fue la capital del virreinato del Perú por sus valles y su baja altitud sobre el nivel del mar en reemplazo de Jauja"
+    },
+    "Citar_capital_de_":{
+      "Opciones":["", "", "", ""],
+      "Respuesta":"",
+      "Razon":""
+    }
+  }
+}

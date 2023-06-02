@@ -1,0 +1,38 @@
+
+{
+  "negocio":{
+    "giro":"Academia_de_idiomas",
+    "nombre":"Next_lang",
+    "domicilio":{
+      "calle":"Principal",
+      "numero":123,
+      "ciudad":"Villa Carlos Paz",
+      "Telefonos":[
+         156734756,
+         154456234
+        ]
+    },  
+    "cursos":[
+      {
+        "nombre":"Ingles_Basico",
+        "nivel":"Principiante",
+        "duración_semanas":4,
+        "costo_usd":"100"
+      },
+      {
+        "nombre":"Ingles_Avanzado",
+        "nivel":"Avanzado",
+        "duración_semanas":20,
+        "costo_usd":400
+      },
+      {
+        "nombre":"Italiano_basico",
+        "nivel":"Principiante",
+        "duración_semanas":5,
+        "costo_usd":120
+      }
+      
+      ]
+    
+  }
+}
