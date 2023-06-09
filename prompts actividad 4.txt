@@ -7,3 +7,7 @@ es la correcta. Para este caso el juego trata de una trivia de las capitales de 
 //**** Autor: Jerald Vega
 Quiero que tu respuesta sea únicamente un JSON de preguntas y respuestas para un juego de trivia con temática al azar. Sin explicación, ni intro, ni un "claro", "aquí tienes". Solo el JSON con el enunciado de la pregunta, opciones de respuesta, la respuesta correcta y una explicación de la respuesta.
 //**** Nota: La mayoría de las veces devuelve el JSON solo, pero no siempre
+
+//**** Autor: Miguel Mallqui
+Genérame un JSON para un juego de trivia, solo dame el código de JSON sin introducción ni conclusiones. El JSON debe contener lo siguiente enunciados de la pregunta, opciones de repuesta, repuesta correcta y dame una explicación por que es esa la repuesta. Sin explicación de los pasos, sin una introducción de aquí esta tu JSON o ejemplo.
+//**** Nota: Se genera el JSON para su copiado.
