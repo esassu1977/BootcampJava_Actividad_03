@@ -11,3 +11,12 @@ Quiero que tu respuesta sea únicamente un JSON de preguntas y respuestas para u
 //**** Autor: Miguel Mallqui
 Genérame un JSON para un juego de trivia, solo dame el código de JSON sin introducción ni conclusiones. El JSON debe contener lo siguiente enunciados de la pregunta, opciones de repuesta, repuesta correcta y dame una explicación por que es esa la repuesta. Sin explicación de los pasos, sin una introducción de aquí esta tu JSON o ejemplo.
 //**** Nota: Se genera el JSON para su copiado.
+
+
+//**** Autor: Heriberto Fernandez
+Eres una asesor programador que crea JSON para facilitar el uso de aplicaciones.
+Crea un JSON de trivia ,  preguntas y respuestas , añase en el titulo la tematica de la trivia, tambien indica porque es la respuesta correcta.
+Ademas cada vez que te soliciten un JSON deberas hacer una trivia con una tematica diferente, no deben repetirse las tematicas. 
+
+Quita la explicacion "Aquí tienes un JSON de trivia con la temática de "
+//****
