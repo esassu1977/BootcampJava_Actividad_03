@@ -8,7 +8,10 @@
         "Bogotá",
         "Lima"
       ],
-      "respuesta_correcta": "Ciudad de Panamá"
+      "respuesta_correcta": {
+        "respuesta": "Ciudad de Panamá",
+        "explicacion": "La capital de Panamá es Ciudad de Panamá, ya que es la ciudad principal y capital del país. Es conocida por su moderno horizonte de rascacielos y su histórico casco antiguo, el cual es considerado Patrimonio de la Humanidad por la UNESCO."
+      }
     },
     {
       "pregunta": "¿Quién pintó la obra 'Noche estrellada'?",
@@ -18,7 +21,10 @@
         "Vincent van Gogh",
         "Salvador Dalí"
       ],
-      "respuesta_correcta": "Vincent van Gogh"
+      "respuesta_correcta": {
+        "respuesta": "Vincent van Gogh",
+        "explicacion": "La obra 'Noche estrellada' fue pintada por Vincent van Gogh. Es una de sus obras más famosas y se caracteriza por su estilo único y el uso de pinceladas expresivas que representan un paisaje nocturno con un cielo estrellado."
+      }
     },
     {
       "pregunta": "¿Quién fue el creador del tren?",
@@ -28,7 +34,10 @@
         "Alexander Graham Bell",
         "Henry Ford"
       ],
-      "respuesta_correcta": "George Stephenson"
+      "respuesta_correcta": {
+        "respuesta": "George Stephenson",
+        "explicacion": "George Stephenson es conocido como el creador del tren. Fue un ingeniero e inventor británico que diseñó la primera locomotora de vapor práctica y construyó la primera línea ferroviaria pública en el Reino Unido, marcando el inicio de la era del transporte ferroviario."
+      }
     },
     {
       "pregunta": "¿Quién creó las computadoras?",
@@ -38,7 +47,10 @@
         "Steve Jobs",
         "Tim Berners-Lee"
       ],
-      "respuesta_correcta": "Alan Turing"
+      "respuesta_correcta": {
+        "respuesta": "Alan Turing",
+        "explicacion": "Alan Turing es considerado uno de los padres de la computación. Fue un matemático e informático británico que realizó contribuciones fundamentales en el campo de la informática y desempeñó un papel crucial en el desarrollo de las primeras computadoras electrónicas."
+      }
     }
   ]
 }
