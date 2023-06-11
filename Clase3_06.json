@@ -1,0 +1,44 @@
+{
+  "Trivia": [
+    {
+      "pregunta": "¿Cuál es la capital de Panamá?",
+      "opciones": [
+        "Ciudad de Panamá",
+        "San José",
+        "Bogotá",
+        "Lima"
+      ],
+      "respuesta_correcta": "Ciudad de Panamá"
+    },
+    {
+      "pregunta": "¿Quién pintó la obra 'Noche estrellada'?",
+      "opciones": [
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Salvador Dalí"
+      ],
+      "respuesta_correcta": "Vincent van Gogh"
+    },
+    {
+      "pregunta": "¿Quién fue el creador del tren?",
+      "opciones": [
+        "George Stephenson",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Henry Ford"
+      ],
+      "respuesta_correcta": "George Stephenson"
+    },
+    {
+      "pregunta": "¿Quién creó las computadoras?",
+      "opciones": [
+        "Alan Turing",
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee"
+      ],
+      "respuesta_correcta": "Alan Turing"
+    }
+  ]
+}
